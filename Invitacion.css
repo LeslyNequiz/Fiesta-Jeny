@@ -526,3 +526,9 @@ h5.pie {
 	font-family: "Photograph";
 	src: url("Photograph_Signature.ttf");
 }
+
+@font-face
+{
+	font-family: "Billion Dreams";
+	src: url("BillionDreams.ttf");
+}
